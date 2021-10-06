@@ -1,0 +1,13 @@
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\bin\Debug\CaptchaNET.exe.config
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\bin\Debug\CaptchaNET.exe
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\bin\Debug\CaptchaNET.pdb
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\bin\Debug\Guna.UI2.dll
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\obj\Debug\CaptchaNET.csprojAssemblyReference.cache
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\obj\Debug\CaptchaNET.v.resources
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\obj\Debug\CaptchaNET.Properties.Resources.resources
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\obj\Debug\CaptchaNET.csproj.GenerateResource.cache
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\obj\Debug\CaptchaNET.csproj.CoreCompileInputs.cache
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\obj\Debug\CaptchaNET.csproj.CopyComplete
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\obj\Debug\CaptchaNET.exe
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\obj\Debug\CaptchaNET.pdb
+C:\Users\dayofpay\source\repos\CaptchaNET\CaptchaNET\obj\Debug\CaptchaNET.ProtectedArea.resources
